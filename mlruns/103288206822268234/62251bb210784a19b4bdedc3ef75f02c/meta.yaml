@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/103288206822268234/62251bb210784a19b4bdedc3ef75f02c/artifacts
+deleted_time: 1747511303125
 end_time: 1747488931831
 entry_point_name: ''
 experiment_id: '103288206822268234'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 62251bb210784a19b4bdedc3ef75f02c
 run_name: practica_09
 run_uuid: 62251bb210784a19b4bdedc3ef75f02c
