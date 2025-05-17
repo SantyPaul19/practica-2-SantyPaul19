@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/65497f05aa7b4e7186e12b3c24123f20/artifacts
+deleted_time: 1747448981990
+end_time: 1747446460672
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 65497f05aa7b4e7186e12b3c24123f20
+run_name: invincible-mouse-80
+run_uuid: 65497f05aa7b4e7186e12b3c24123f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446449718
+status: 3
+tags: []
+user_id: Santi

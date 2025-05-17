@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/55b2fad6759a417cb08a16cb54cff1fe/artifacts
+deleted_time: 1747448981980
+end_time: 1747446494707
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 55b2fad6759a417cb08a16cb54cff1fe
+run_name: debonair-quail-953
+run_uuid: 55b2fad6759a417cb08a16cb54cff1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446484114
+status: 3
+tags: []
+user_id: Santi

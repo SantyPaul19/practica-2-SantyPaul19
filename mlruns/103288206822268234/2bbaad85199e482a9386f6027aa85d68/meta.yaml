@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/2bbaad85199e482a9386f6027aa85d68/artifacts
+deleted_time: 1747448981978
+end_time: 1747446516436
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 2bbaad85199e482a9386f6027aa85d68
+run_name: adaptable-crow-337
+run_uuid: 2bbaad85199e482a9386f6027aa85d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446505573
+status: 3
+tags: []
+user_id: Santi

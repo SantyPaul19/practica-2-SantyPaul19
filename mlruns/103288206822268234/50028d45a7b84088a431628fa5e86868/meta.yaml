@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/50028d45a7b84088a431628fa5e86868/artifacts
+deleted_time: 1747448981998
+end_time: 1747446266850
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 50028d45a7b84088a431628fa5e86868
+run_name: marvelous-robin-982
+run_uuid: 50028d45a7b84088a431628fa5e86868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446266757
+status: 4
+tags: []
+user_id: Santi

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/e1628a6ed0be4fe1861cfe3c39d46e2f/artifacts
+deleted_time: 1747448981966
+end_time: 1747446765601
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: e1628a6ed0be4fe1861cfe3c39d46e2f
+run_name: practica_03
+run_uuid: e1628a6ed0be4fe1861cfe3c39d46e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446754348
+status: 3
+tags: []
+user_id: Santi

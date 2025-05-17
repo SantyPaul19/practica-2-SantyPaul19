@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/103288206822268234
+creation_time: 1747444623485
+experiment_id: '103288206822268234'
+last_update_time: 1747444623485
+lifecycle_stage: active
+name: ClasificadorDemoDiabetes

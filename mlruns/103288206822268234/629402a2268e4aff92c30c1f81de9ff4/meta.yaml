@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/629402a2268e4aff92c30c1f81de9ff4/artifacts
+deleted_time: 1747448981976
+end_time: 1747446526943
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 629402a2268e4aff92c30c1f81de9ff4
+run_name: resilient-slug-313
+run_uuid: 629402a2268e4aff92c30c1f81de9ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446516483
+status: 3
+tags: []
+user_id: Santi

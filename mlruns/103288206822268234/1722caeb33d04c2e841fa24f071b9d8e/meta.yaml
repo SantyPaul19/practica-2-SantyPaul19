@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/1722caeb33d04c2e841fa24f071b9d8e/artifacts
+deleted_time: 1747448981998
+end_time: 1747446438556
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 1722caeb33d04c2e841fa24f071b9d8e
+run_name: peaceful-smelt-725
+run_uuid: 1722caeb33d04c2e841fa24f071b9d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446420001
+status: 3
+tags: []
+user_id: Santi

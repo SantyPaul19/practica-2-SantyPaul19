@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/2bfaefaaa0704333a61c40b2b8451fdb/artifacts
+deleted_time: 1747448981990
+end_time: 1747446449666
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: 2bfaefaaa0704333a61c40b2b8451fdb
+run_name: nervous-skunk-302
+run_uuid: 2bfaefaaa0704333a61c40b2b8451fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446438615
+status: 3
+tags: []
+user_id: Santi

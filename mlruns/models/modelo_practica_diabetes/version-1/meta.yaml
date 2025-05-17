@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747488380538
+current_stage: None
+description: ''
+last_updated_timestamp: 1747488380538
+name: modelo_practica_diabetes
+run_id: 26d0ec69c2174cee80ec4ceb0e58eeaf
+run_link: ''
+source: mlflow-artifacts:/103288206822268234/26d0ec69c2174cee80ec4ceb0e58eeaf/artifacts/modelo_pipeline
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/103288206822268234/26d0ec69c2174cee80ec4ceb0e58eeaf/artifacts/modelo_pipeline
+user_id: null
+version: 1

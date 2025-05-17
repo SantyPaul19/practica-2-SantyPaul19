@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/103288206822268234/fcdbfe14851f47419af0f070c77e54eb/artifacts
+deleted_time: 1747448982004
+end_time: 1747446213159
+entry_point_name: ''
+experiment_id: '103288206822268234'
+lifecycle_stage: deleted
+run_id: fcdbfe14851f47419af0f070c77e54eb
+run_name: unruly-doe-222
+run_uuid: fcdbfe14851f47419af0f070c77e54eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446213041
+status: 4
+tags: []
+user_id: Santi
